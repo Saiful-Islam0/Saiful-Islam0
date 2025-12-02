@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=AI%2FML+Engineer;Full+Stack+Developer;Data+Science+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
-I am a passionate developer with expertise in **Artificial Intelligence, Machine Learning, and Full Stack Web Development**. I love building intelligent systems that solve real-world problems, from fake news detection to smart IoT solutions.
+I am a passionate developer with expertise in **Artificial Intelligence, Machine Learning, Data Science and Full Stack Web Development**. I love building intelligent systems that solve real-world problems, from fake news detection to smart IoT solutions.
 
 ---
 
